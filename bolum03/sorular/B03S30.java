@@ -29,6 +29,6 @@ public class B03S30 {
 		
 		suankiSaat = suankiSaat + saatDilimi;
 		
-		System.out.println("Þu an ki saat " + ((suankiSaat > 12) ? suankiSaat - 12 : suankiSaat) + ":" + simdikiDakika + ":" + suankiSaniye + ((suankiSaat > 12) ? " PM" : " AM"));
+		System.out.println("su an ki saat " + ((suankiSaat > 12) ? suankiSaat - 12 : suankiSaat) + ":" + simdikiDakika + ":" + suankiSaniye + ((suankiSaat > 12) ? " PM" : " AM"));
 	}
 }
