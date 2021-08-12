@@ -4,9 +4,9 @@ package bolum03.sorular;
  * (Bilim: haftanın günü) Christian Zeller tarafından geliştirilen Zeller algoritması ile verilen bir
  * tarihin hangi gün olduğu hesaplanabilir. Bunun için geliştirilen formül:
  * 
- * 			 26(m + 1)		  k   j
+ * 	     6(m + 1)	      k   j
  *  h = (q + ---------  + k + - + - + 5j) % 7
- *  			10			  4   4
+ *  	        10	      4   4
  *
  * olduğunda
  * 
