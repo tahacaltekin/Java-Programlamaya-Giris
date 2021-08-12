@@ -8,9 +8,9 @@ package bolum03.sorular;
  * karar verebilirsiniz.
  * 
  * 
- * 														> 0 p2 noktası doğrunun solunda
+ * 								  > 0 p2 noktası doğrunun solunda
  *  (x1 - x0) * (y2 - y0) - (x2 - x0) * (y1 - y0)		= 0 p2 noktası doğrunun üzerinde
- *  													< 0 p2 noktası doğrunun sağında
+ *  								  < 0 p2 noktası doğrunun sağında
  * 
  * Kullanıcıdan p0, p1, p2 gibi üç nokta alan ve p2 noktasının p0, p1 doğrusuna göre konumunu gösteren
  * bir program yazınız.
