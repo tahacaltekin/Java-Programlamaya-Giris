@@ -1,19 +1,14 @@
 package bolum02.sorular;
 
 /*
- * (​Geometri: altıgenin alanı) Kullanıcıdan altıgenin kenar uzunluğunu isteyen ve alanını
-
-formül:
-javaci.net
-javaci.net
-​ ​
-
+ * (Geometri: altıgenin alanı) Kullanıcıdan altıgenin kenar uzunluğunu isteyen ve alanını
+ *
  * hesaplayıp gösteren bir program yazınız. Altıgenin alanını hesaplamak için kullanılacak
  * formül:
  * 
- * 			3√3
- *  alan = -----s²
- *  		 2 
+ * 	    3√3
+ *  alan = ----- s²
+ *  	     2 
  * 
  * s altıgenin kenar uzunluğunu gösterir.
  */
