@@ -5,13 +5,12 @@ package bolum06.sorular;
  * 
  *   			  1
  *    			2 1
- *       		3 2 1
- *     ...
- *    n n-1 ... 3 2 1
+ *       	      3 2 1
+ *                      ...
+ *          n n-1 ... 3 2 1
  * 
  * Metot bildirimi;
  * public static void ​displayPattern(​int ​n)
-
  */
 
 import java.util.Scanner;
