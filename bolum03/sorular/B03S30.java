@@ -1,7 +1,7 @@
 package bolum03.sorular;
 
 /*
- * (Þu anki saat) Programlama Sorularý 2.8 yeniden düzenleyerek þu anki zamaný12 dilimli saat kullanarak gösterin.
+ * (su anki saat) Programlama Sorulari 2.8 yeniden dÃ¼zenleyerek su anki zamani 12 dilimli saat kullanarak gÃ¶sterin.
  */
 
 import java.util.Scanner;
@@ -10,7 +10,7 @@ public class B03S30 {
 	public static void main(String[] args) {
 		Scanner girdi = new Scanner(System.in);
 		
-		System.out.println("Bulunduðunuz konumdaki saati öðrenmek için saat dilimi farkýný GMT olarak girin: ");
+		System.out.println("BulunduÃ°unuz konumdaki saati Ã¶Ã°renmek iÃ§in saat dilimi farkÃ½nÃ½ GMT olarak girin: ");
 		int saatDilimi = girdi.nextInt();
 		
 		long toplamMiliSaniye = System.currentTimeMillis();
@@ -29,6 +29,6 @@ public class B03S30 {
 		
 		suankiSaat = suankiSaat + saatDilimi;
 		
-		System.out.println("Þu an ki saat " + ((suankiSaat > 12) ? suankiSaat - 12 : suankiSaat) + ":" + simdikiDakika + ":" + suankiSaniye + ((suankiSaat > 12) ? " PM" : " AM"));
+		System.out.println("Ãžu an ki saat " + ((suankiSaat > 12) ? suankiSaat - 12 : suankiSaat) + ":" + simdikiDakika + ":" + suankiSaniye + ((suankiSaat > 12) ? " PM" : " AM"));
 	}
 }
