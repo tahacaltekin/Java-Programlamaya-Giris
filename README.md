@@ -2,7 +2,7 @@
 Y. Daniel Liang'ın Java Programlamaya Giris kitabı üzerinden anlatılan 
 Udemy'den aldığım Volkan Istek Hocanın kursu olan 
 Java Programlamaya Giriş 1 ve Java Programlamaya Giriş 2 
-kurslarında kitapta konu sonlarında bulunan soruların çözümleridir.
+kurslarında kitapta konu sonlarında bulunan soruların kendim yapmaya çalıştığım çözümleridir.
 
 Not: Bütün sorular kendi çözümüm değildir. Takıldığım sorularda
 bazı kişi ve yerlerden yardım alınmıştır.
