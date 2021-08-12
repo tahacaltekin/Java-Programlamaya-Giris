@@ -4,10 +4,10 @@ package bolum01.sorular;
  * (​Tablo oluşturma) Aşağıdaki tabloyu oluşturacak bir program yazınız:
  * 
  * 	a	 a^2    a^3
- * 1	 1 		1
- * 2	 4 		8
- * 3	 9 		27
- * 4	 16     64
+ * 	1	 1 	1
+ * 	2	 4 	8
+ * 	3	 9 	27
+ * 	4	 16     64
  */
 
 public class B01S04 {
