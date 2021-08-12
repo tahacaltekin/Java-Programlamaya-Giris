@@ -7,7 +7,7 @@ package bolum05.sorular;
  * 	Mil 	  Kilometre
  * 	 1	    1.609
  * 	 2	    3.218
- *  ...		     ...
+ *       ...         ...
  * 	 9          14.481
  *       10         16.090
  * 
