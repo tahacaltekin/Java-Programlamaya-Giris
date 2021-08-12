@@ -1,10 +1,10 @@
 package bolum02.sorular;
 
 /*
- * ​ (​Fizik: ivme) Aşağıdaki formülde gösterildiği gibi, ortalama ivme hızdaki değişimin zamana
+ * (Fizik: ivme) Aşağıdaki formülde gösterildiği gibi, ortalama ivme hızdaki değişimin zamana
  * bölünmesiyle elde edilir.
  * 
- *     			 v1 - v0
+ *     	        v1 - v0
  *          a = ---------
  *          	   t                               
  * 
