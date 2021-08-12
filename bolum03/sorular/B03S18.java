@@ -1,17 +1,17 @@
 package bolum03.sorular;
 
 /*
- * (Kargo ücreti) Kargo firması kargo ücretini hesaplamak için aşağıdaki fonksiyonu kullanmaktadır.
- * Fonksiyon, kargonun ağırlığına (w) karşılık gelen ücreti verir.
+ * (Kargo Ã¼creti) Kargo firmasÄ± kargo Ã¼cretini hesaplamak iÃ§in aÅŸaÄŸÄ±daki fonksiyonu kullanmaktadÄ±r.
+ * Fonksiyon, kargonun aÄŸÄ±rlÄ±ÄŸÄ±na (w) karÅŸÄ±lÄ±k gelen Ã¼creti verir.
  * 
- * 	 		 3.5, if 0 < w < = 1
+ * 	     3.5, if 0 < w < = 1
  *   c(w) =  5.5, if 1 < w < = 3
- *  		 8.5, if 3 < w < = 10
- *   		 10.5, if 10 < w < = 20
+ *  	     8.5, if 3 < w < = 10
+ *   	     10.5, if 10 < w < = 20
  *   
  *   
- * Kullanıcıdan kargonun ağırlığını alan ve kargo ücretini gösteren bir program yazınız. Eğer ağırlık 50’den
- * büyük girilirse “Bu paket kargolanamaz” mesajını gösteriniz.
+ * KullanÄ±cÄ±dan kargonun aÄŸÄ±rlÄ±ÄŸÄ±nÄ± alan ve kargo Ã¼cretini gÃ¶steren bir program yazÄ±nÄ±z. EÄŸer aÄŸÄ±rlÄ±k 50â€™den
+ * bÃ¼yÃ¼k girilirse â€œBu paket kargolanamazâ€ mesajÄ±nÄ± gÃ¶steriniz.
  */
 
 import java.util.Scanner;
@@ -20,7 +20,7 @@ public class B03S18 {
 	public static void main(String[] args) {
 		Scanner girdi = new Scanner(System.in);
 
-		System.out.println("Kargonun ağırlığını giriniz: ");
+		System.out.println("Kargonun aÄŸÄ±rlÄ±ÄŸÄ±nÄ± giriniz: ");
 		double agirlik = girdi.nextDouble();
 
 		double agirlikBasinaUcret;
@@ -37,7 +37,7 @@ public class B03S18 {
 				agirlikBasinaUcret = 8.5;
 			} else {
 				agirlikBasinaUcret = 10.5;
-			} System.out.println("Kargolanacak paketin fiyatı " + agirlikBasinaUcret * agirlik + " TL ");
+			} System.out.println("Kargolanacak paketin fiyatÄ± " + agirlikBasinaUcret * agirlik + " TL ");
 		}
 	}
 }
