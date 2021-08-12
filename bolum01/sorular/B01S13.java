@@ -6,7 +6,7 @@ package bolum01.sorular;
  * 
  * 
  * ax + by = e   x = ed - bf	 y = af - ec
- * 					---------       ---------
+ * 		     ---------       ---------
  * cx + dy = f       ad - bc         ad - bc
  * 
  * 
