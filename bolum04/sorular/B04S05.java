@@ -6,9 +6,9 @@ package bolum04.sorular;
  * hesaplamak için kullanılacak formül:
  * 
  * 
- * 					n x s²
+ * 			  n x s²
  * 		alan = ----------------
- * 				4 x tan(pi / n)
+ * 			4 x tan(pi / n)
  * 
  * s ​altıgenin kenar uzunluğunu gösterir. Kullanıcıdan düzgün çokgenin kenar sayısını ve uzunluğunu alan
  * ve alanını gösteren bir program yazınız
