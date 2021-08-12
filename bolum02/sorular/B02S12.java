@@ -1,10 +1,10 @@
 package bolum02.sorular;
 
 /*
- * ​ (​Fizik: iniş mesafesi) İvmesi​ a ve iniş anındaki hızı​ v olan bir uçak için gerekli en az pist
+ * (Fizik: iniş mesafesi) İvmesi a ve iniş anındaki hızı v olan bir uçak için gerekli en az pist
  * mesafesini hesaplamak için aşağıdaki formülü kullanabilirsiniz :
  * 
- * 						 v^2
+ * 					 v^2
  * 				length = ---
  *  					  2a							
  * 
