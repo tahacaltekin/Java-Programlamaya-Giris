@@ -1,10 +1,10 @@
 package bolum01.sorular;
 
 /*
- *  ​(​Alan ve çevre hesaplama) Aşağıdaki formülü kullanarak bir dikdörtgenin alanını hesaplayınız
+ *  (Alan ve çevre hesaplama) Aşağıdaki formülü kullanarak bir dikdörtgenin alanını hesaplayınız
  * genişliği 4.5 , yüksekliği 7.9 olarak alınız:
  * 
- * alan = ge​ nişlik * ​yükseklik
+ * alan = genişlik * yükseklik
  * 
  */
 
