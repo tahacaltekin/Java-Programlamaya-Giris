@@ -3,7 +3,7 @@ package bolum01.sorular;
  /*
   *  ​(​Desen gösterme) Aşağıdaki deseni oluşturacak bir program yazınız:
   * 
-  *   	J     A    V     V    A
+  *   	    J     A    V     V    A
 	    J    A A    V   V    A A
 	J   J   AAAAA    V V    AAAAA
 	 J J   A     A    V    A     A
