@@ -11,15 +11,15 @@ package bolum06.sorular;
  * 
  * 
  * 
- * Vergilendirilebilir 		Bekar 			Married Joint 		    Married     Head of  House
- *       Gelir                         ya da  Qualifying Separate
- *                                             Widow(er)
+ * Vergilendirilebilir 		Bekar 		Married Joint 		    Married     Head of House
+ *       Gelir                            ya da  Qualifying Separate
+ *                                               Widow(er)
  * ------------------------------------------------------------------------------------------------  
- *   50000 					8688 				6665 				8688 			7353
- *   50050 					8700 				6673 				8700 			7365
+ *   50000 			8688 		   6665 		     8688 	    7353
+ *   50050 			8700 		   6673 		     8700 	    7365
  *   ...
- *   59950 					11175 				8158 				11175 			9840
- *   60000 					11188 				8165 				11188 			9853
+ *   59950 			11175 		   8158 		     11175 	    9840
+ *   60000 			11188 		   8165 		     11188 	    9853
  *   
  *   İpucu: vergiyi bu metot aracılığıyla tam sayıya yuvarlayabilirsiniz. Math.round
  *   (ör.,​Math.round(computeTax(status, taxableIncome)​)
