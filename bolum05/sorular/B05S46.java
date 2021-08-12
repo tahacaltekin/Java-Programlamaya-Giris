@@ -20,6 +20,6 @@ public class B05S46 {
 			ters += kelime.charAt(i);
 		}
 		
-		System.out.println("Girdiðiniz kelimenin tersten yazýlýþý: " + ters);
+		System.out.println("Girdiðiniz kelimenin tersten yazılışı: " + ters);
 	}
 }
