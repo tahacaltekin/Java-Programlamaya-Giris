@@ -1,8 +1,8 @@
 package bolum05.sorular;
 
 /*
- * (Döngülerle aşağıdaki 4 deseni oluşturunuz) İç içe döngüleri kullanarak 4 farklı programla aşağıdaki
- * desenleri oluşturunuz.
+ * (DÃ¶ngÃ¼lerle aÅŸaÄŸÄ±daki 4 deseni oluÃ¾turunuz) iÃ§ iÃ§e dÃ¶ngÃ¼leri kullanarak 4 farklÄ± programla aÅŸaÄŸÄ±daki
+ * desenleri oluÅŸturunuz.
  */
 
 public class B05S18A {
