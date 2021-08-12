@@ -6,9 +6,9 @@ package bolum04.sorular;
  
  * uzunluğu):
  * 
- * 					6 x s²
+ * 			  6 x s²
  * 		alan = ----------------
- * 				4 x tan(pi / 6)
+ * 			4 x tan(pi / 6)
  * 
  * Kullanıcıdan altıgenin kenar uzunluğunu alan ve alanını gösteren bir program yazınız
  */
