@@ -4,9 +4,9 @@ package bolum03.sorular;
  * (Cebir: İkinci dereceden denklem çözümü) ax2 + bx + c = 0 denkleminin kökleri aşağıdaki formül
  * kullanılarak bulunabilir.
  * 
- * 		 	-b + √b² - 4ac				-b - √b² - 4ac
+ * 		-b + √b² - 4ac		    -b - √b² - 4ac
  * 	r1 =   ---------------    ve   r2 = ---------------
- * 			    2a							  2a
+ * 		     2a				 2a
  * 
  * b² ­ 4ac ifadesine denklemin diskriminantı denir. Bu değer pozitifse, denklemin iki gerçek kökü vardır. Bu
  * değer sıfırsa, denklemin bir kökü vardır. Bu değer negatifse, denklemin hiç gerçek kökü yoktur.
