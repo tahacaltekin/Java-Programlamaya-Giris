@@ -5,11 +5,11 @@ package bolum05.sorular;
  * pound’dur.)
  * 
  * 	Kilogram 	Pound
- * 		1		2.2
- * 		3		6.6
- * 	   ...		...
- * 	   197      433.4
- *     199      437.8
+ * 	1		2.2
+ * 	3		6.6
+ * 	...		...
+ * 	197             433.4
+ *      199             437.8
  */
 
 public class B05S03 {
