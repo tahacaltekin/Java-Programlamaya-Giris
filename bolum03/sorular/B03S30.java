@@ -10,7 +10,7 @@ public class B03S30 {
 	public static void main(String[] args) {
 		Scanner girdi = new Scanner(System.in);
 		
-		System.out.println("Bulunduðunuz konumdaki saati öðrenmek için saat dilimi farkýný GMT olarak girin: ");
+		System.out.println("Bulundugunuz konumdaki saati ögrenmek için saat dilimi farkini GMT olarak girin: ");
 		int saatDilimi = girdi.nextInt();
 		
 		long toplamMiliSaniye = System.currentTimeMillis();
