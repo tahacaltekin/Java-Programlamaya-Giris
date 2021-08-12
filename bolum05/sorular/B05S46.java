@@ -1,7 +1,7 @@
 package bolum05.sorular;
 
 /*
- * (Yazıyı tersine çevirme) Kullanıcıdan bir yazı alan ve bu yazıyı tersten gösteren bir program yazınız. 
+ * (YazÄ±yÄ± tersine Ã§evirme) KullanÄ±cÄ±dan bir yazÄ± alan ve bu yazÄ±yÄ± tersten gÃ¶steren bir program yazÄ±nÄ±z. 
  */
 
 import java.util.Scanner;
@@ -20,6 +20,6 @@ public class B05S46 {
 			ters += kelime.charAt(i);
 		}
 		
-		System.out.println("Girdiğiniz kelimenin tersten yazılışı: " + ters);
+		System.out.println("GirdiÃ°iniz kelimenin tersten yazÃ½lÃ½Ã¾Ã½: " + ters);
 	}
 }
